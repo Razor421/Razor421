@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Razor421
-- 👀 I’m interested in css
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on css
-- 📫 How to reach me it on twitter
+Hi im Razor
+im learning css
+Web Developer ASEAN BTE
