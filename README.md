@@ -1,3 +1,1 @@
-Web Dev
-HTML/JS/CSS
-ASEAN BTE
+https://img.shields.io/github/forks/Razorz/ASEAN-BTE?style=social
