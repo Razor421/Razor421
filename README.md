@@ -1,2 +1,2 @@
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/personalsyrup?style=social">
 
-<img alt="GitHub forks" src="https://github.com/Razor421/AseanBTE-Website">
